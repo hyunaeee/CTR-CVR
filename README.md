@@ -50,7 +50,6 @@ The solution implements a two-stage model:
 1. **GBDT (LightGBM)**: 특성 상호작용 추출 및 초기 예측용
 2. **딥 뉴럴 네트워크**: 원시 특성과 GBDT 출력을 사용한 세밀한 예측용
 
-![Model Architecture](https://raw.githubusercontent.com/username/rtb-prediction/main/docs/images/model_architecture.png)
 
 ### Performance Results | 성능 결과
 
