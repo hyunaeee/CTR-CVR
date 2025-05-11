@@ -1,5 +1,5 @@
-# Real-time CTR/CVR Prediction and Bid Optimization
-# 실시간 CTR/CVR 예측 및 입찰 최적화
+# Real-time CTR/CVR Prediction and Bid Optimization | 실시간 CTR/CVR 예측 및 입찰 최적화
+--
 
 ## Project Overview | 프로젝트 개요
 This repository implements a complete system for real-time Click-Through Rate (CTR) and Conversion Rate (CVR) prediction with bid optimization for online advertising platforms. The system is designed to handle high-throughput scenarios with low-latency requirements typically found in Real-Time Bidding (RTB) environments.
