@@ -132,6 +132,6 @@ python serve.py --model-path models/hybrid_model_v1.0
 3. Chapelle, O. (2015). Offline Evaluation of Response Prediction in Online Advertising Auctions. WWW 2015.
 
 ### Contact | 연락처
-For questions or collaboration, please open an issue or contact [your-email@example.com](mailto:hyunaeee@gmail.com).
+For questions or collaboration, please open an issue or contact [hyunaeee@gmail.com](mailto:hyunaeee@gmail.com).
 
-질문이나 협업을 위해서는 이슈를 열거나 [your-email@example.com](mailto:hyunaeee@gmail.com)으로 문의해 주세요.
+질문이나 협업을 위해서는 이슈를 열거나 [hyunaeee@gmail.com](mailto:hyunaeee@gmail.com)으로 문의해 주세요.
