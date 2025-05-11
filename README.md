@@ -1,7 +1,5 @@
 ## Real-time CTR/CVR Prediction and Bid Optimization | 실시간 CTR/CVR 예측 및 입찰 최적화
 
-
-### Project Overview | 프로젝트 개요
 This repository implements a complete system for real-time Click-Through Rate (CTR) and Conversion Rate (CVR) prediction with bid optimization for online advertising platforms. The system is designed to handle high-throughput scenarios with low-latency requirements typically found in Real-Time Bidding (RTB) environments.
 
 이 리포지토리는 온라인 광고 플랫폼을 위한 실시간 클릭률(CTR) 및 전환율(CVR) 예측과 입찰 최적화 시스템을 구현합니다. 이 시스템은 실시간 입찰(RTB) 환경에서 흔히 발생하는 고처리량, 저지연 요구사항을 처리할 수 있도록 설계되었습니다.
